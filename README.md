@@ -14,3 +14,4 @@ CSS: Applied modern styling techniques, including rounded corners and hover effe
 The profile box is designed to be simple yet elegant, making it perfect for personal websites or portfolios.
 Each social media button includes icons and hover effects to improve interactivity.
 I’m excited to share this project with you all! Feel free to check it out and let me know your thoughts.
+![Output](https://github.com/user-attachments/assets/18e163b5-962e-45c7-a812-372c97e57e5f)
